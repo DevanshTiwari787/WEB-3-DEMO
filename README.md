@@ -72,3 +72,22 @@ EventTicket::mint_ticket(
     b"General Admission",
     b"https://example.com/devfest/ticket001.json"
 );
+{
+  "Result": {
+    "transaction_hash": "0xa0e1f4399b2811463a4a0d2076d955e586f1cadc91a920625c35e1130c2c3d5e",
+    "gas_used": 2147,
+    "gas_unit_price": 100,
+    "sender": "f04cb1ab274402cfa3c0cfc73c69bdfea6a7e03482bdb74876e75df775d38ffa",
+    "sequence_number": 0,
+    "replay_protector": {
+      "SequenceNumber": 0
+    },
+    "success": true,
+    "timestamp_us": 1754650145197341,
+    "version": 27893195,
+    "vm_status": "Executed successfully"
+  }
+}
+
+<img width="1914" height="982" alt="image" src="https://github.com/user-attachments/assets/722651c8-1ea8-4a78-8a52-f8bdf5ff9ec0" />
+
