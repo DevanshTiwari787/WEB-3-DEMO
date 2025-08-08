@@ -72,6 +72,8 @@ EventTicket::mint_ticket(
     b"General Admission",
     b"https://example.com/devfest/ticket001.json"
 );
+
+```
 {
   "Result": {
     "transaction_hash": "0xa0e1f4399b2811463a4a0d2076d955e586f1cadc91a920625c35e1130c2c3d5e",
