@@ -1,0 +1,21 @@
+[package]
+name = "web-3-workshop"
+version = "1.0.0"
+authors = []
+
+[addresses]
+MyModule = '0xf04cb1ab274402cfa3c0cfc73c69bdfea6a7e03482bdb74876e75df775d38ffa'
+
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"
+subdir = "aptos-framework"
+
+[dependencies.AptosTokenObjects]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"
+subdir = "aptos-token-objects"
+
+[dev-dependencies]
