@@ -74,6 +74,7 @@ EventTicket::mint_ticket(
 );
 
 ```
+```
 {
   "Result": {
     "transaction_hash": "0xa0e1f4399b2811463a4a0d2076d955e586f1cadc91a920625c35e1130c2c3d5e",
@@ -90,6 +91,7 @@ EventTicket::mint_ticket(
     "vm_status": "Executed successfully"
   }
 }
+```
 
 <img width="1919" height="913" alt="image" src="https://github.com/user-attachments/assets/de9c56e6-11d4-4216-8f3a-9455b4ca4e3b" />
 
