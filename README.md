@@ -89,5 +89,5 @@ EventTicket::mint_ticket(
   }
 }
 
-<img width="1914" height="982" alt="image" src="https://github.com/user-attachments/assets/722651c8-1ea8-4a78-8a52-f8bdf5ff9ec0" />
+<img width="1919" height="913" alt="image" src="https://github.com/user-attachments/assets/de9c56e6-11d4-4216-8f3a-9455b4ca4e3b" />
 
